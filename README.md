@@ -31,8 +31,8 @@ The tool uses Python's standard library; no third-party Python packages are requ
 After you push this project to GitHub, clone it with:
 
 ```bash
-git clone https://github.com/<YOUR-USERNAME>/<YOUR-REPOSITORY>.git
-cd <YOUR-REPOSITORY>
+git clone https://github.com/pwdex/ECH-Probe.git
+cd ECH-Probe
 ```
 
 Replace the placeholders with your GitHub username and repository name.
